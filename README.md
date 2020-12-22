@@ -12,7 +12,7 @@
 <h2>Me contacter<h2>
   <br/>
   <div>
-    [<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>](https://www.linkedin.com/in/manon-deleest) <br/>
+    [<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>](https://www.linkedin.com/in/manon-deleest/) <br/>
     <a href="mailto:deleest.manon@gmail.com"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/</a><br/>
   </div>
 
