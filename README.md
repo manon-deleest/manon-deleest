@@ -1,9 +1,8 @@
 <h1> Bienvenu sur mon profil Github👋 <h1>
 
 <h2>mini bio <h2>
-  Actuellement en deuxième année de DUT informatique à Limoges, 
+  <p>Actuellement en deuxième année de DUT informatique à Limoges, </p>
   
-
 <h2>Mes compétences<h2>
 
 
@@ -14,8 +13,6 @@
     <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="20px" src="linkedin.png" hspace="30"/</a><br/>
     <a href="mailto:deleest.manon@gmail.com"><img align="left" height="20px" src="gmail.png" hspace="30"/</a><br/>
     <a href="MANON DELEEST.pdf"><img height="20px" src="cv.png" hspace="30"/</a></a>
-
-
   </div>
 
 
