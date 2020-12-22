@@ -12,10 +12,11 @@
 <h2>Me contacter<h2>
   <br/>
   <div>
-    [<img height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="30"/>(https://www.linkedin.com/in/manon-deleest/) ]
-    <br/>
     <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="30"/</a>
     <a href="mailto:deleest.manon@gmail.com"><img align="left" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="30"/</a><br/>
+      <a  target="_blank" href="CV Florian TORIBIO.pdf">Télécharger mon CV</a>
+
+
   </div>
 
 
