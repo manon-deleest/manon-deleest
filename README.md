@@ -1,9 +1,18 @@
-<h1> Bienvenu sur mon profil Github👋 <h1>
+# Bienvenu sur mon profil Github👋
 
-<h2>mini bio <h2>
+## Présentation 
 Actuellement en deuxième année de DUT informatique à Limoges,
-<h2>Mes compétences<h2>
-<h2>Me contacter<h2>
+
+
+## Mes compétences<h2>
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, 
+
+
+## Me contacter
   <div>
     <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="30px" src="linkedin.png" hspace="30"/</a><br/>
     <a href="mailto:deleest.manon@gmail.com"><img align="left" height="30px" src="gmail.png" hspace="30"/</a><br/>
@@ -13,7 +22,6 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 
 
 
-![logo linkedin ](linkedin.png) [linkedin](https://www.linkedin.com/in/manon-deleest/)
 
 
 <!--
