@@ -13,6 +13,8 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 
 
 
+![logo linkedin ](linkedin.png) [linkedin](https://www.linkedin.com/in/manon-deleest/)
+
 
 <!--
 **manon-deleest/manon-deleest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
