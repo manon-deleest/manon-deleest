@@ -10,9 +10,9 @@
 
 <h2>Me contacter<h2>
   <div>
-    <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="20px" src="linkedin.png" hspace="30"/</a><br/>
-    <a href="mailto:deleest.manon@gmail.com"><img align="left" height="20px" src="gmail.png" hspace="30"/</a><br/>
-    <a href="MANON DELEEST.pdf"><img height="20px" src="cv.png" hspace="30"/</a></a>
+    <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="30px" src="linkedin.png" hspace="30"/</a><br/>
+    <a href="mailto:deleest.manon@gmail.com"><img align="left" height="30px" src="gmail.png" hspace="30"/</a><br/>
+    <a href="MANON DELEEST.pdf"><img height="30px" src="cv.png" hspace="30"/</a></a>
   </div>
 
 
