@@ -5,11 +5,17 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 
 
 ## Mes compétences<h2>
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, 
+|Langages/ Framework                |Niveau                       |
+|-----------------------------------|-----------------------------|
+|`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">              	|⭐⭐⭐⭐           	|
+|`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|⭐⭐⭐⭐            		|
+|`C / C++`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg">          		|⭐⭐⭐⭐            		|
+|`MySQL`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">          		|⭐⭐⭐⭐            		|
+|`Symfony`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg">           		|⭐⭐⭐⭐            		|
+|`Bash`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">            		|⭐⭐⭐            		|
+|`JAVA`  <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">           		|⭐⭐            		|
+|`Rust`    <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg">          		|⭐             		|
+           
 
 
 ## Me contacter
