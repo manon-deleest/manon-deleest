@@ -7,7 +7,7 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 ## Mes compétences
 |Langages/ Framework                |Niveau                       |
 |-----------------------------------|-----------------------------|
-|`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://www.flaticon.com/free-icon/html-5_919827?term=html&page=1&position=1&related_item_id=919827">              	|⭐⭐⭐          	|
+|`HTML / CSS`<img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"><img align="right" height="30px" src="https://drive.google.com/file/d/1p6sIq8MdRT92f-iPn8d7r7w667aHMZJ1/view?usp=sharing">              	|⭐⭐⭐          	|
 |`PHP`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">          		|⭐⭐⭐⭐            		|
 |`C / C++`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg">          		|⭐⭐⭐⭐            		|
 |`MySQL`   <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">          		|⭐⭐⭐⭐            		|
