@@ -3,7 +3,7 @@
 ## Présentation 
 Actuellement en deuxième année de DUT informatique à Limoges,
 
-
+***
 ## Mes compétences
 |Langages/ Framework                |Niveau                       |
 |-----------------------------------|-----------------------------|
@@ -17,7 +17,7 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 |`Rust`              		|⭐             		|
            
 
-
+***
 ## Me contacter
   <div>
     <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="30px" src="linkedin.png" hspace="30"/</a>
