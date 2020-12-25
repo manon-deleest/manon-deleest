@@ -9,12 +9,12 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 |-----------------------------------|-----------------------------|
 |`HTML / CSS`<img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/css.png"><img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/html-5.png">              	|⭐⭐⭐          	       |
 |`PHP` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">         		|⭐⭐⭐⭐       		|
-|`C / C++`  <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/css.png"><img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/html-5.png">          		|⭐⭐⭐⭐            		|
-|`MySQL` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">             		|⭐⭐⭐⭐            		|
-|`Symfony` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">              	|⭐⭐⭐⭐            		|
-|`Bash` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">              		|⭐⭐⭐            		|
-|`JAVA` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">            		|⭐⭐            		|
-|`Rust` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">              		|⭐             		|
+|`C / C++`  <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/c.png">          		|⭐⭐⭐⭐            		|
+|`MySQL` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/mysql.png">             		|⭐⭐⭐⭐            		|
+|`Symfony` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/Symfony-boule.png">              	|⭐⭐⭐⭐            		|
+|`Bash` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/gnu-bash.png">              		|⭐⭐⭐            		|
+|`JAVA` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/java.png">            		|⭐⭐            		|
+|`Rust` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/rust.jpg">              		|⭐             		|
            
 
 ***
