@@ -8,13 +8,13 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 |Langages/ Framework                |Niveau                       |
 |-----------------------------------|-----------------------------|
 |`HTML / CSS`<img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/css.png"><img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/html-5.png">              	|⭐⭐⭐          	       |
-|`PHP`          		|⭐⭐⭐⭐       		|
-|`C / C++`           		|⭐⭐⭐⭐            		|
-|`MySQL`             		|⭐⭐⭐⭐            		|
-|`Symfony`              	|⭐⭐⭐⭐            		|
-|`Bash`              		|⭐⭐⭐            		|
-|`JAVA`            		|⭐⭐            		|
-|`Rust`              		|⭐             		|
+|`PHP` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">         		|⭐⭐⭐⭐       		|
+|`C / C++`  <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/css.png"><img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/html-5.png">          		|⭐⭐⭐⭐            		|
+|`MySQL` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">             		|⭐⭐⭐⭐            		|
+|`Symfony` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">              	|⭐⭐⭐⭐            		|
+|`Bash` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">              		|⭐⭐⭐            		|
+|`JAVA` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">            		|⭐⭐            		|
+|`Rust` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">              		|⭐             		|
            
 
 ***
