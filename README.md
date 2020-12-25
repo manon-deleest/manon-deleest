@@ -20,9 +20,9 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 ***
 ## Me contacter
   <div>
-    <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="30px" src="linkedin.png" hspace="30"/</a>
-    <a href="mailto:deleest.manon@gmail.com"><img align="left" height="30px" src="gmail.png" hspace="30"/</a>
-    <a href="MANON DELEEST.pdf"><img height="30px" src="cv.png" hspace="30"/</a>
+    <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/linkedin.png" hspace="30"/</a>
+    <a href="mailto:deleest.manon@gmail.com"><img align="left" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/gmail.png" hspace="30"/</a>
+    <a href="MANON DELEEST.pdf"><img height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/cv.png" hspace="30"/</a>
   </div>
 
 
