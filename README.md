@@ -7,7 +7,7 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 ## Mes compétences
 |Langages/ Framework                |Niveau                       |
 |-----------------------------------|-----------------------------|
-|`HTML / CSS`<img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/css.png"><img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/html-5.png">              	|⭐⭐⭐★★          	       |
+|`HTML / CSS`<img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/css.png"><img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/html-5.png">              	|⭐⭐⭐          	       |
 |`PHP` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/1200px-PHP-logo.svg.png">         		|⭐⭐⭐⭐       		|
 |`C / C++`  <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/c.png">          		|⭐⭐⭐⭐            		|
 |`MySQL` <img align="right" height="30px" src="https://github.com/manon-deleest/Vrac/blob/master/profil/mysql.png">             		|⭐⭐⭐⭐            		|
