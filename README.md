@@ -27,9 +27,8 @@ Bonjour, je m'appelle Manon Deleest. J'ai 19 ans et je suis en deuxième année 
 
 
 ## Mes Statistiques 
-
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=manon-deleest&hide=contribs,prs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manon-deleest&hide=contribs,prs" />
 
 
 <!--
