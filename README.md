@@ -16,6 +16,11 @@ Bonjour, je m'appelle Manon Deleest. J'ai 19 ans et je suis en deuxième année 
 |`JAVA` <img align="right" height="30px" src="https://zupimages.net/up/20/53/9fcm.png">            		|⭐⭐            		|
 |`Rust` <img align="right" height="30px" src="https://zupimages.net/up/20/53/tlwt.jpg">              		|⭐             		|
            
+***
+## Mes Statistiques 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manon-deleest&hide=contribs,prs" />
+
 
 ***
 ## Me contacter
@@ -24,11 +29,6 @@ Bonjour, je m'appelle Manon Deleest. J'ai 19 ans et je suis en deuxième année 
     <a href="mailto:deleest.manon@gmail.com"><img align="left" height="30px" src="https://zupimages.net/up/20/53/yra1.png" hspace="30"/</a>
     <a href="MANON DELEEST.pdf"><img height="30px" src="https://zupimages.net/up/20/53/frqy.png" hspace="30"/</a>
   </div>
-
-
-## Mes Statistiques 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=manon-deleest&hide=contribs,prs" />
 
 
 <!--
