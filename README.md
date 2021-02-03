@@ -27,7 +27,8 @@ Actuellement en deuxième année de DUT informatique à Limoges,
 
 
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=manon-deleest&hide=contribs,prs" />
 
 
 <!--
