@@ -1,7 +1,7 @@
 # Bienvenu sur mon profil Github👋
 
 ## Présentation 
-Actuellement en deuxième année de DUT informatique à Limoges,
+Bonjour, je m'appelle Manon Deleest. J'ai 19 ans et je suis en deuxième année de DUT informatique à Limoges. Avant le DUT, je ne connaissais pas vraiment l'informatique et pourtant c'est devenu une véritable passion. Je me suis orientée vers cette filière car je pense que l'informatique est l'une des meilleur façon d'aider son prochain. Ce qui me plait c'est de trouver une solution aux problèmes rencontrés, de connaitre les utilisateurs afin de répondre au mieux à leurs besoins. Plutôt réservée, le travail d'équipe m'a permis à gagner en assurance et repousser mes limites 
 
 ***
 ## Mes compétences
@@ -26,8 +26,9 @@ Actuellement en deuxième année de DUT informatique à Limoges,
   </div>
 
 
+## Mes Statistiques 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manon-deleest&layout=compact"/>
       <img src="https://github-readme-stats.vercel.app/api?username=manon-deleest&hide=contribs,prs" />
 
 
