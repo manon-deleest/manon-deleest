@@ -1,7 +1,9 @@
 # Bienvenu sur mon profil Github👋
 
 ## Présentation 
-Bonjour, je m'appelle Manon Deleest. J'ai 19 ans et je suis en deuxième année de DUT informatique à Limoges. Avant le DUT, je ne connaissais pas vraiment l'informatique et pourtant c'est devenu une véritable passion. Je me suis orientée vers cette filière car je pense que l'informatique est l'une des meilleur façon d'aider son prochain. Ce qui me plait c'est de trouver une solution aux problèmes rencontrés, de connaitre les utilisateurs afin de répondre au mieux à leurs besoins. Plutôt réservée, le travail d'équipe m'a permis à gagner en assurance et repousser mes limites 
+Bonjour, je m’appelle Manon Deleest. J’ai 19 ans et je suis en deuxième année de DUT Informatique à Limoges.
+Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions pour répondre à un besoin, faire plaisir. J’aime les défis ! Mes différents projets et le travail en équipe m’ont permis de gagner en assurance et de repousser mes limites.
+ 
 
 ***
 ## Mes compétences
