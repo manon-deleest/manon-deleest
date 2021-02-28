@@ -10,7 +10,7 @@ Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions pour
 ## Mes compétences
 |Langages/ Framework                |Niveau                       |
 |-----------------------------------|-----------------------------|
-|`HTML / CSS`<img align="right" height="30px" src="https://zupimages.net/up/20/53/bpn2.png"><img align="right" height="30px" src="https://zupimages.net/up/20/53/5qz3.png">              	|⭐⭐⭐          	       |
+|`HTML / CSS`<img align="right" height="30px" src="https://zupimages.net/up/20/53/bpn2.png"><img align="right" height="30px" src="https://zupimages.net/up/20/53/5qz3.png">              	|⭐⭐⭐⭐          	       |
 |`PHP` <img align="right" height="30px" src="https://zupimages.net/up/20/24/ldaw.png">         		|⭐⭐⭐⭐       		|
 |`C / C++`  <img align="right" height="30px" src="https://zupimages.net/up/20/53/xsye.png">          		|⭐⭐⭐⭐            		|
 |`MySQL` <img align="right" height="30px" src="https://zupimages.net/up/20/53/1tei.png">             		|⭐⭐⭐⭐            		|
