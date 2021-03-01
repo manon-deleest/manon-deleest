@@ -31,7 +31,7 @@ Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions 📝
     <a href="https://www.linkedin.com/in/manon-deleest/"><img align="left" height="30px" src="https://zupimages.net/up/19/25/yqns.png" hspace="30"/</a>
     <a href="mailto:deleest.manon@gmail.com"><img align="left" height="30px" src="https://zupimages.net/up/20/53/yra1.png" hspace="30"/</a>
     <a href="MANON DELEEST.pdf"><img height="30px" src="https://zupimages.net/up/20/53/frqy.png" hspace="30"/</a>
-     <a href="https://manon-deleest.go.yo.fr/"><img height="30px" src="https://zupimages.net/up/21/09/fla4.png" hspace="30"/</a>
+     <a href="https://manon-deleest.go.yo.fr/"><img height="30px" src="https://zupimages.net/up/21/09/xs5w.png" hspace="30"/</a>
      
   </div>
 
