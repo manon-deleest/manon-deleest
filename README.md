@@ -1,7 +1,7 @@
 # Bienvenu sur mon profil Github👋
 
 ## Présentation 
-Bonjour, je m’appelle Manon Deleest😁. J’ai 20 ans et je suis en licence professionnelle spécialisé dans le développement FullStack à La Rochelle 💻.
+Bonjour, je m’appelle Manon Deleest😁. J’ai 20 ans et je suis en MBA spécialité développement FullStack à Toulouse 💻.
 
 Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions 📝 pour répondre à un besoin et faire plaisir. J’aime les défis💪🏻 ! Mes différents projets et le travail en équipe👪 m’ont permis de gagner en assurance et de repousser mes limites.
  
@@ -10,14 +10,16 @@ Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions 📝
 ## Mes compétences
 |Langages/ Framework                |Niveau                       |
 |-----------------------------------|-----------------------------|
-|`HTML / CSS`<img align="right" height="30px" src="https://zupimages.net/up/20/53/bpn2.png"><img align="right" height="30px" src="https://zupimages.net/up/20/53/5qz3.png">              	|⭐⭐⭐⭐          	       |
-|`PHP` <img align="right" height="30px" src="https://zupimages.net/up/20/24/ldaw.png">         		|⭐⭐⭐⭐       		|
-|`C / C++`  <img align="right" height="30px" src="https://zupimages.net/up/20/53/xsye.png">          		|⭐⭐⭐⭐            		|
-|`MySQL` <img align="right" height="30px" src="https://zupimages.net/up/20/53/1tei.png">             		|⭐⭐⭐⭐            		|
-|`Symfony` <img align="right" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg">              	|⭐⭐⭐⭐            		|
-|`Bash` <img align="right" height="30px" src="https://zupimages.net/up/20/53/18d7.png">              		|⭐⭐⭐            		|
-|`JAVA` <img align="right" height="30px" src="https://zupimages.net/up/20/53/9fcm.png">            		|⭐⭐            		|
-|`Rust` <img align="right" height="30px" src="https://zupimages.net/up/20/53/tlwt.jpg">              		|⭐             		|
+|`HTML / CSS`              	|⭐⭐⭐⭐          	       |
+|`PHP`          		|⭐⭐⭐⭐       		|
+|`C / C++`            		|⭐⭐⭐⭐            		|
+|`MySQL`              		|⭐⭐⭐⭐            		|
+|`Symfony`               	|⭐⭐⭐⭐            		|
+|`React`               	|⭐⭐⭐⭐            		|
+|`Angular`               	|⭐⭐⭐⭐            		|
+|`Bash`               		|⭐⭐⭐            		|
+|`JAVA`             		|⭐⭐            		|
+|`Rust`               		|⭐             		|
            
 ***
 ## Mes Statistiques 
