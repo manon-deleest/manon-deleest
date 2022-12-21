@@ -17,9 +17,8 @@ Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions 📝
 |`Symfony`               	|⭐⭐⭐⭐            		|
 |`React`               	|⭐⭐⭐⭐            		|
 |`Angular`               	|⭐⭐⭐⭐            		|
-|`Bash`               		|⭐⭐⭐            		|
-|`JAVA`             		|⭐⭐            		|
-|`Rust`               		|⭐             		|
+|`JAVA`             		|⭐⭐⭐⭐            		|
+|`Bash`               		|⭐⭐⭐⭐            		|
            
 ***
 ## Mes Statistiques 
