@@ -12,13 +12,13 @@ Je voudrais vivre de ma passion, trouver et offrir les meilleures solutions 📝
 |-----------------------------------|-----------------------------|
 |`HTML / CSS`              	|⭐⭐⭐⭐          	       |
 |`PHP`          		|⭐⭐⭐⭐       		|
-|`C / C++`            		|⭐⭐⭐⭐            		|
 |`MySQL`              		|⭐⭐⭐⭐            		|
 |`Symfony`               	|⭐⭐⭐⭐            		|
 |`React`               	|⭐⭐⭐⭐            		|
 |`Angular`               	|⭐⭐⭐⭐            		|
 |`JAVA`             		|⭐⭐⭐⭐            		|
 |`Bash`               		|⭐⭐⭐⭐            		|
+|`C / C++`            		|⭐⭐⭐            		|
            
 ***
 ## Mes Statistiques 
